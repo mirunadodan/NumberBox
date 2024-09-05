@@ -1,0 +1,15 @@
+.boxes {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.numberBoxes {
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
